@@ -1,0 +1,16 @@
+list = ['dog', 'cat', 'turtle', 'goat']
+#print(list[2])
+
+fruits = ['apple', 'banana', 'pear', 'orange', 'kiwi', 'grapes', 'pineapple']
+#print(fruits[6])
+
+colors = ['purple',  'orange', 'green', 'red', 'yellow', 'brown']
+#print(colors[2])
+
+print('1. The ' + fruits[0] + ' is ' + colors[3])
+print('2. The ' + fruits[1] + ' is ' + colors[4])
+print('3. The ' + fruits[2] + ' is ' + colors[2])
+print('4. The ' + fruits[3] + ' is ' + colors[1])
+print('5. The ' + fruits[4] + ' is ' + colors[5])
+print('6. The ' + fruits[5] + ' is ' + colors[0])
+print('7. The ' + fruits[6] + ' is ' + colors[4])
